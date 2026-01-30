@@ -15,6 +15,9 @@ bin
 *vcxproj.user
 DUKE3D.GRP
 
+# CMake
+Build/*
+
 # Linux
 *.o
 *.a
